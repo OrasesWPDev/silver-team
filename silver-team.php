@@ -1,12 +1,18 @@
 <?php
 /**
  * Plugin Name: Silver Team
+ * Plugin URI: https://github.com/OrasesWPDev/silver-team
  * Description: A WordPress plugin for Silver Team functionality
  * Version: 1.0.0
- * Author: Your Name
- * License: GPL2
  * Requires at least: 5.3
  * Requires PHP: 7.2
+ * Author: Orases
+ * Author URI: https://orases.com
+ * Text Domain: silver-team
+ * Domain Path: /languages
+ * License: GPL v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * Update URI: https://github.com/OrasesWPDev/silver-team
  */
 
 // Prevent direct access
